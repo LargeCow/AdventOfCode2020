@@ -1,5 +1,5 @@
 
-with open('/Users/Zgoda/Downloads/input_1.txt', 'r') as input_file:
+with open('inputs/input_1.txt', 'r') as input_file:
     lines = input_file.readlines()
     for i in lines:
         for x in lines:
